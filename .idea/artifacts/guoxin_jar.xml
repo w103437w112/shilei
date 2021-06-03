@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="guoxin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/guoxin_jar</output-path>
+    <root id="archive" name="guoxin.jar">
+      <element id="module-output" name="ddsign" />
+    </root>
+  </artifact>
+</component>
